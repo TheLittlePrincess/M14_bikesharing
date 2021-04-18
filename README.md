@@ -14,6 +14,6 @@ As you can see on the story linked below, some of the conclusions reached are:
 •	Largest majority of the trips are under 40 or so mintes with a high spike around 5 minutes
 
 ##**Summary**
-•	Tableau Story can be seen here ![Story]( https://public.tableau.com/profile/ana7380#!/vizhome/Citibike_M14/CitiBikeStory?publish=yes) (Deliverable 3)
+•	Tableau Story can be seen here [Story](https://public.tableau.com/profile/ana7380#!/vizhome/Citibike_M14/CitiBikeStory?publish=yes) (Deliverable 3)
 •	Tableau file (Deliverable 2) includes all requested graphs. Summary seen on this Dashboard Image ![CitiBike Dash](https://github.com/TheLittlePrincess/M14_bikesharing/blob/main/RideShare%20Dashboard.png)
 •	Data format was modified using this Python code (Deliverable 1)  ![jupyter notebook](https://github.com/TheLittlePrincess/M14_bikesharing/commit/712ab0e7dbc6d769f1cc61eba74dbb57dba48fc3)
